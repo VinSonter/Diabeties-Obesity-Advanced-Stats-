@@ -4,8 +4,6 @@
 
 This project investigates the relationships between diabetes, obesity, and inactivity across various U.S. counties in 2018. We use a multi-linear regression model to analyze the data and attempt to predict diabetes rates based on inactivity and obesity data.
 
-## Author
-- Suraj Basavaraj Rajalod - 02131154
 
 ## Project Objective
 
